@@ -1,3 +1,7 @@
+// Copyright (c) 2017 Eliott Paris.
+// For information on usage and redistribution, and for a DISCLAIMER OF ALL
+// WARRANTIES, see the file, "LICENSE.txt," in this distribution.
+
 #include "ofApp.h"
 
 //--------------------------------------------------------------
@@ -15,13 +19,13 @@ void ofApp::update()
 //--------------------------------------------------------------
 void ofApp::draw()
 {
-    ofDrawBitmapStringHighlight("Everything works!", 20, 20);
+    ofDrawBitmapStringHighlight("Hello OpenFrameworks!", 20, 20);
 }
 
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key)
 {
-
+    
 }
 
 //--------------------------------------------------------------
