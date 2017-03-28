@@ -7,6 +7,7 @@ Ce répertoire regroupe les applications développées avec [OpenFramework](http
 | Nom                             | Déscription                         |
 |---------------------------------|-------------------------------------|
 |[OfxDummy](./OfxDummy)           | A dummy OF Applications             |
+|[OfxGui](./OfxGui)               | Slider parameter                    |
 
 ## Installation
 
