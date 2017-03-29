@@ -1,3 +1,3 @@
 # OfxDummy
 
-A dummy OpenFramework applications
+A dummy OpenFramework application

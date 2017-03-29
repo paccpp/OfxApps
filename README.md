@@ -4,10 +4,11 @@ Ce répertoire regroupe les applications développées avec [OpenFramework](http
 
 ## Applications
 
-| Nom                             | Déscription                         |
-|---------------------------------|-------------------------------------|
-|[OfxDummy](./OfxDummy)           | A dummy OF Applications             |
-|[OfxGui](./OfxGui)               | Slider parameter                    |
+| Nom                               | Déscription                         |
+|-----------------------------------|-------------------------------------|
+|[OfxDummy](./OfxDummy)             | A dummy OF Application              |
+|[OfxGui](./OfxGui)                 | Slider parameter                    |
+|[OfxAudioPlayer](./OfxAudioPlayer) | Audio player example                |
 
 ## Installation
 
