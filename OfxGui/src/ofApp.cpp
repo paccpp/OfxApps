@@ -7,6 +7,10 @@
 //--------------------------------------------------------------
 void ofApp::setup()
 {
+    ofSetWindowTitle("OfxGui");
+    
+    ofSetCircleResolution(50);
+    
     m_gui.setup();
     m_gui.add(m_radius.setup("radius", 140, 10, 300));
 }
